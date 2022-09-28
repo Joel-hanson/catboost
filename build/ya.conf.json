@@ -6760,7 +6760,7 @@
         "ymake": {
             "formula": {
                 "sandbox_id": [
-                    1446610382
+                    1452793716
                 ],
                 "match": "ymake"
             },
@@ -6832,8 +6832,7 @@
                         },
                         "owner": "ARC"
                     },
-                    "update_interval": 86400,
-                    "ignore_platform": false
+                    "update_interval": 86400
                 }
             },
             "executable": {
@@ -7924,8 +7923,7 @@
                         "owner": "YP"
                     }
                 },
-                "update_interval": 604800,
-                "ignore_platform": false
+                "update_interval": 604800
             },
             "executable": {
                 "yp-util": [
@@ -7941,8 +7939,7 @@
                         "owner": "YP"
                     }
                 },
-                "update_interval": 604800,
-                "ignore_platform": false
+                "update_interval": 604800
             },
             "executable": {
                 "yp": [
@@ -7986,8 +7983,7 @@
                         },
                         "owner": "DRUG-RELEASERS"
                     },
-                    "update_inteval": 43200,
-                    "ignore_platform": false
+                    "update_inteval": 43200
                 }
             },
             "executable": {
@@ -8079,8 +8075,7 @@
                         },
                         "owner": "YATOOL"
                     },
-                    "update_interval": 86400,
-                    "ignore_platform": false
+                    "update_interval": 86400
                 }
             },
             "executable": {
@@ -8099,8 +8094,7 @@
                         },
                         "owner": "YATOOL"
                     },
-                    "update_interval": 86400,
-                    "ignore_platform": false
+                    "update_interval": 86400
                 }
             },
             "executable": {
@@ -8278,8 +8272,7 @@
                         },
                         "owner": "STABILITY"
                     },
-                    "update_interval": 86400,
-                    "ignore_platform": false
+                    "update_interval": 86400
                 }
             },
             "executable": {
@@ -8422,7 +8415,7 @@
         },
         "apphost": {
             "formula": {
-                "sandbox_id": 1448984317,
+                "sandbox_id": 1464101091,
                 "match": "app_host_launcher"
             },
             "executable": {
@@ -8436,6 +8429,7 @@
                 "latest_matched": {
                     "query": {
                         "resource_type": "REPORT_RENDERER_BUNDLE",
+                        "owner": "REPORT_RENDERER",
                         "attributes": {
                             "released": "stable"
                         }
@@ -8453,6 +8447,7 @@
                 "latest_matched": {
                     "query": {
                         "resource_type": "APPTEKA_BUNDLE",
+                        "owner": "REPORT_RENDERER",
                         "attributes": {
                             "released": "stable"
                         }
@@ -8549,7 +8544,7 @@
         "qyp": {
             "formula": {
                 "sandbox_id": [
-                    1425401691
+                    1454282981
                 ],
                 "match": "infra/qyp/vmctl/bin/vmctl"
             },
@@ -8855,8 +8850,7 @@
                             "released": "stable"
                         }
                     },
-                    "update_interval": 86400,
-                    "ignore_platform": false
+                    "update_interval": 86400
                 }
             },
             "executable": {
@@ -8885,9 +8879,9 @@
         "ktlint_bundle": {
             "formula": {
                 "sandbox_id": [
-                    1037460929,
-                    1037467384,
-                    1038449502
+                    1459597978,
+                    1459598823,
+                    1459599001
                 ],
                 "match": "ktlint"
             },
@@ -9078,7 +9072,7 @@
         },
         "bigb_request": {
             "formula": {
-                "sandbox_id": 1448983481,
+                "sandbox_id": 1464101666,
                 "match": "bb_requester"
             },
             "executable": {
@@ -9089,7 +9083,7 @@
         },
         "bigb_hitlog_analyser": {
             "formula": {
-                "sandbox_id": 1448983823,
+                "sandbox_id": 1464100342,
                 "match": "hitlog_analyser"
             },
             "executable": {
@@ -9111,7 +9105,7 @@
         },
         "bigb_bb_cluster_analyzer": {
             "formula": {
-                "sandbox_id": 1448983118,
+                "sandbox_id": 1464101106,
                 "match": "bb_cluster_analyzer"
             },
             "executable": {
@@ -9160,7 +9154,7 @@
         },
         "caesar_yt_sync": {
             "formula": {
-                "sandbox_id": 1448984294,
+                "sandbox_id": 1464101092,
                 "match": "yt_sync"
             },
             "executable": {
@@ -9171,7 +9165,7 @@
         },
         "caesar_lookup_profile": {
             "formula": {
-                "sandbox_id": 1448983122,
+                "sandbox_id": 1464100318,
                 "match": "lookup_profile"
             },
             "executable": {
@@ -9182,7 +9176,7 @@
         },
         "exp_stats": {
             "formula": {
-                "sandbox_id": 1448984328,
+                "sandbox_id": 1464100821,
                 "match": "exp_stats"
             },
             "executable": {
@@ -9193,7 +9187,7 @@
         },
         "lama": {
             "formula": {
-                "sandbox_id": 1449764149,
+                "sandbox_id": 1463491270,
                 "match": "lama"
             },
             "executable": {
@@ -9209,8 +9203,7 @@
                         "resource_type": "MAPS_FRONT_TOOLKIT",
                         "owner": "MAPS_FRONT"
                     },
-                    "update_interval": 86400,
-                    "ignore_platform": false
+                    "update_interval": 86400
                 }
             },
             "executable": {
@@ -9242,8 +9235,7 @@
                         },
                         "owner": "MARKETSRE"
                     },
-                    "update_interval": 86400,
-                    "ignore_platform": false
+                    "update_interval": 86400
                 }
             },
             "executable": {
@@ -9259,8 +9251,7 @@
                         "resource_type": "DNS_CLIENT2_BINARY",
                         "owner": "MNT_TRAF"
                     },
-                    "update_interval": 86400,
-                    "ignore_platform": false
+                    "update_interval": 86400
                 }
             },
             "executable": {
@@ -9276,8 +9267,7 @@
                         "resource_type": "PUNCHER_CLI",
                         "owner": "NOCDEV"
                     },
-                    "update_interval": 86400,
-                    "ignore_platform": false
+                    "update_interval": 86400
                 }
             },
             "executable": {
@@ -9288,7 +9278,7 @@
         },
         "caesar_profile_size_analyzer": {
             "formula": {
-                "sandbox_id": 1448983163,
+                "sandbox_id": 1464100829,
                 "match": "profile_size_analyzer"
             },
             "executable": {
@@ -9329,12 +9319,12 @@
                 "latest_matched": {
                     "query": {
                         "resource_type": "ABCD_CLI",
+                        "owner": "atridis",
                         "attributes": {
                             "released": "stable"
                         }
                     },
-                    "update_interval": 86400,
-                    "ignore_platform": false
+                    "update_interval": 86400
                 }
             },
             "executable": {
